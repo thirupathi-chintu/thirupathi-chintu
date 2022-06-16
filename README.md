@@ -4,7 +4,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 Over 3+ years of experience in IT industry with major focus on AWS Cloud/DevOps, Continuous Integration and Continuous Delivery (CI/CD pipeline), Build and Release management, Linux/Windows administration and support.
 
 - 📫 How to reach me **thirupathiperaboina@gmail.com**
 
